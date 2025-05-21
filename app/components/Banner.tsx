@@ -4,7 +4,7 @@ export default function Banner() {
             <div>
                 <img src="/img/banner.svg" alt="" />
             </div>
-            <div className="text-center text-white">
+            <div className="text-center bg text-white">
                 <h3>UTFTEC</h3>
                 <h4>A MELHOR ESCOLA DE INFORMÁTICA</h4>
                 <button
